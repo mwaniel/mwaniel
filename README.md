@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
-- 👨‍💻 Some of my projects are available at [https://bit.ly/danielmwaniki or https://mwaniel.github.io/portfolio1/](https://bit.ly/danielmwaniki or https://mwaniel.github.io/portfolio1/)
+- 👨‍💻 Some of my projects are available at [portfolio1](https://bit.ly/danielmwaniki) or [portfolio2](https://mwaniel.github.io/portfolio1/)
 
 - 💬 Ask me about **Laravel , machine learning ,pandas and numPy and python**
 
